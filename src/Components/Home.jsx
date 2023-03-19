@@ -33,7 +33,7 @@ const Home = () => {
         textAlign={"center"}
         fontWeight={"thin"}
         color={"whiteAlpha.700"}
-        m={["-180px", "-20"]}
+        my={["-200px", "-20"]}
       >
         MyCrypto
       </Text>
